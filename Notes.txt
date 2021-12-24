@@ -1,0 +1,8 @@
+Working With Text
+
+- In html, a new lines are compressed into a space. instead use <br>. 
+- <p>my paragraph lolll</p> creates a new line b/n elements.
+- there are 6 different headings in html. <h1> -> <h6>
+- <strong>text</strong> to make text bold
+- <em>text</em> to make text italic
+- <!-- html comment -->
