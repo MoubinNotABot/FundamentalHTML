@@ -6,3 +6,19 @@ Working With Text
 - <strong>text</strong> to make text bold
 - <em>text</em> to make text italic
 - <!-- html comment -->
+
+
+______________________________________________________________________
+Lists
+
+- Unordered list:
+    - use <ul>
+            <li>item</li>
+          </ul>
+    - where <ul> is Unordered list, and <li> is list item
+
+- Ordered list:
+    - use <ol>
+            <li></li>
+          </ol>
+    - where <ol> is Ordered list, and <li> is list item.
