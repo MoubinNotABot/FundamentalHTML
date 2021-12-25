@@ -22,3 +22,7 @@ Lists
             <li></li>
           </ol>
     - where <ol> is Ordered list, and <li> is list item.
+
+- checkout this link for list attributes and stuff. 
+    https://learn.shayhowe.com/html-css/creating-lists/
+
